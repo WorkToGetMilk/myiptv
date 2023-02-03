@@ -63,12 +63,10 @@ http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/TVOD/888888
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]/ott.mobaibox.com/TVOD/3/224/3221227674/index.m3u8?Hevc5.5M
 #EXTINF:-1,tvg-id="北京科教" tvg-name="北京科教" tvg-logo="https://epg.112114.xyz/logo/北京科教.png" group-title="北京",BTV科教
 http://[2409:8087:3408:20:5040::106]:18890/TVOD/88888888/224/3221225944/index.m3u8
-#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他",金鹰纪实
-http://cmhiott.hvs.fj.chinamobile.com/TVOD/88888888/224/3221226975/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV4K
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.js.chinamobile.com/TVOD/3/224/3221228228/index.m3u8
 #EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="其他",4KUHD 纯享4K
-http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/TVOD/3/224/3221228242/index.m3u8
+http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN
 http://[2409:8087:3408:20:5040::106]:18890/TVOD/88888888/224/3221226980/index.m3u8
 #EXTINF:-1,tvg-id="CNC中文" tvg-name="CNC中文" tvg-logo="https://upload.112114.xyz/logo/CNC.png" group-title="其他",CNC中文
