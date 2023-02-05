@@ -61,7 +61,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/TVOD/3/224/32212284
 http://[2409:8087:2001:20:2800:0:df6e:eb17]/ott.mobaibox.com/TVOD/3/224/3221228221/index.m3u8
 #EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="央视",CCTV高尔夫网球
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/TVOD/3/224/3221228138/index.m3u8
-#EXTINF:-1,tvg-id="CCTV4K@50帧" tvg-name="CCTV4K@50帧" tvg-logo="https://epg.112114.xyz/logo/CCTV4K@50帧.png" group-title="央视",CCTV4K@50帧
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV4K
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/TVOD/3/224/3221228228/index.m3u8
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="其他",欢笑剧场4K
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.js.chinamobile.com/TVOD/3/224/3221227715/index.m3u8
@@ -69,7 +69,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.js.chinamobile.com/TVOD/3/224/32
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/TVOD/3/224/3221228242/index.m3u8
 #EXTINF:-1,tvg-id="江苏4K修复电影" tvg-name="江苏4K修复电影" tvg-logo="https://epg.112114.xyz/logo/江苏4K修复电影.png" group-title="江苏",江苏4K修复电影
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/TVOD/3/224/3221228141/index.m3u8
-#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上海纪实" tvg-logo="https://upload.112114.xyz/logo/上海纪实人文.png" group-title="其他",纪实人文
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]/ott.mobaibox.com/TVOD/3/224/3221227674/index.m3u8
 #EXTINF:-1,tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://epg.112114.xyz/logo/冬奥纪实.png" group-title="其他",冬奥纪实
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/TVOD/3/224/3221227711/index.m3u8
