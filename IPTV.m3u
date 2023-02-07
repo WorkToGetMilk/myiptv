@@ -61,7 +61,7 @@ http://[2409:8087:3408:20:5040::106]:18890/TVOD/88888888/224/3221227091/index.m3
 http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226335/index.m3u8
 #EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上海纪实" tvg-logo="https://upload.112114.xyz/logo/上海纪实人文.png" group-title="其他",纪实人文
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]/ott.mobaibox.com/TVOD/3/224/3221227674/index.m3u8?Hevc5.5M
-#EXTINF:-1,tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://epg.112114.xyz/logo/北京科教.png" group-title="北京",BTV科教
+#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京科教.png" group-title="北京",BTV科教
 http://[2409:8087:3408:20:5040::106]:18890/TVOD/88888888/224/3221225944/index.m3u8
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV4K
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.js.chinamobile.com/TVOD/3/224/3221228228/index.m3u8
