@@ -1,18 +1,18 @@
 #EXTM3U x-tvg-url="https://epg.hklive.tv"
 #EXTINF:-1,tvg-id="81" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
-http://c-leung.homeip.net:8011/bysid/1
+http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8 
 #EXTINF:-1,tvg-id="84" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
-http://c-leung.homeip.net:8012/bysid/2
+http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8 
 #EXTINF:-1,tvg-id="82" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="其他",J2台
-http://c-leung.homeip.net:8012/bysid/82
+https://cdn.hklive.tv/xxxx/82/index.m3u8
 #EXTINF:-1,tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://epg.112114.xyz/logo/無綫新聞台.png" group-title="其他",無綫新聞台
-http://c-leung.homeip.net:8012/bysid/83
+https://cdn.hklive.tv/xxxx/83/index.m3u8
 #EXTINF:-1,tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://epg.112114.xyz/logo/tvb财经体育资讯.png" group-title="其他",無綫財經·資訊台
-http://c-leung.homeip.net:8012/bysid/85
+https://cdn.hklive.tv/xxxx/85/index.m3u8
 #EXTINF:-1,tvg-id="99" tvg-name="ViuTV" tvg-logo="https://epg.112114.xyz/logo/ViuTV.png" group-title="其他",ViuTV
-http://c-leung.homeip.net:8011/bysid/99
+https://cdn.hklive.tv/xxxx/99/index.m3u8
 #EXTINF:-1,tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://epg.112114.xyz/logo/VIU6.png" group-title="其他",ViuTV Six
-http://c-leung.homeip.net:8011/bysid/96
+https://cdn.hklive.tv/xxxx/96/index.m3u8
 #EXTINF:-1,tvg-id="31" tvg-name="港台電視31" tvg-logo="https://epg.112114.xyz/logo/RTHK31.png" group-title="其他",港台電視31
 http://c-leung.homeip.net:8013/bysid/31
 #EXTINF:-1,tvg-id="32" tvg-name="港台電視32" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" group-title="其他",港台電視32
