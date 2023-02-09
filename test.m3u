@@ -7,13 +7,13 @@ http://c-leung.homeip.net:8012/bysid/2
 http://c-leung.homeip.net:8012/bysid/82
 #EXTINF:-1,tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://epg.112114.xyz/logo/無綫新聞台.png" group-title="其他",無綫新聞台
 http://c-leung.homeip.net:8012/bysid/83
-#EXTINF:-1,tvg-id="無綫財經·資訊台" tvg-name="無綫財經·資訊台" tvg-logo="https://epg.112114.xyz/logo/無綫財經·資訊台.png" group-title="其他",無綫財經·資訊台
+#EXTINF:-1,tvg-id="無綫財經·資訊台" tvg-name="無綫財經·資訊台" tvg-logo="https://epg.112114.xyz/logo/tvb财经体育资讯.png" group-title="其他",無綫財經·資訊台
 http://c-leung.homeip.net:8012/bysid/85
 #EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="其他",ViuTV
 http://c-leung.homeip.net:8011/bysid/99
-#EXTINF:-1,tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="https://epg.112114.xyz/logo/VIUTVSIX.png" group-title="其他",ViuTV Six
+#EXTINF:-1,tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="https://epg.112114.xyz/logo/VIU6.png" group-title="其他",ViuTV Six
 http://c-leung.homeip.net:8011/bysid/96
-#EXTINF:-1,tvg-id="港台電視31" tvg-name="港台電視31" tvg-logo="https://epg.112114.xyz/logo/港台電視31.png" group-title="其他",港台電視31
+#EXTINF:-1,tvg-id="港台電視31" tvg-name="港台電視31" tvg-logo="https://epg.112114.xyz/logo/RTHK31.pngg" group-title="其他",港台電視31
 http://c-leung.homeip.net:8013/bysid/31
-#EXTINF:-1,tvg-id="港台電視32" tvg-name="港台電視32" tvg-logo="https://epg.112114.xyz/logo/港台電視32.png" group-title="其他",港台電視32
+#EXTINF:-1,tvg-id="港台電視32" tvg-name="港台電視32" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" group-title="其他",港台電視32
 http://c-leung.homeip.net:8013/bysid/32
