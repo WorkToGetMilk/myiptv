@@ -9,7 +9,7 @@ http://c-leung.homeip.net:8012/bysid/82
 http://c-leung.homeip.net:8012/bysid/83
 #EXTINF:-1,tvg-id="無綫財經·資訊台" tvg-name="無綫財經·資訊台" tvg-logo="https://epg.112114.xyz/logo/tvb财经体育资讯.png" group-title="其他",無綫財經·資訊台
 http://c-leung.homeip.net:8012/bysid/85
-#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/ViuTV.png" group-title="其他",ViuTV
+#EXTINF:-1,tvg-id="99" tvg-name="ViuTV" tvg-logo="https://epg.112114.xyz/logo/ViuTV.png" group-title="其他",ViuTV
 http://c-leung.homeip.net:8011/bysid/99
 #EXTINF:-1,tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="https://epg.112114.xyz/logo/VIU6.png" group-title="其他",ViuTV Six
 http://c-leung.homeip.net:8011/bysid/96
