@@ -1,3 +1,19 @@
-#EXTM3U catchup="append" catchup-source="?playseek=${(b)YmdHMS}-${(e)YmdHMS}"
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000036/main.m3u8?IASHttpSessionId=OTT
+#EXTM3U x-tvg-url="https://epg.hklive.tv"
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
+http://c-leung.homeip.net:8011/bysid/1
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
+http://c-leung.homeip.net:8012/bysid/2
+#EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="其他",J2台
+http://c-leung.homeip.net:8012/bysid/82
+#EXTINF:-1,tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://epg.112114.xyz/logo/無綫新聞台.png" group-title="其他",無綫新聞台
+http://c-leung.homeip.net:8012/bysid/83
+#EXTINF:-1,tvg-id="無綫財經·資訊台" tvg-name="無綫財經·資訊台" tvg-logo="https://epg.112114.xyz/logo/無綫財經·資訊台.png" group-title="其他",無綫財經·資訊台
+http://c-leung.homeip.net:8012/bysid/85
+#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="其他",ViuTV
+http://c-leung.homeip.net:8011/bysid/99
+#EXTINF:-1,tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="https://epg.112114.xyz/logo/VIUTVSIX.png" group-title="其他",ViuTV Six
+http://c-leung.homeip.net:8011/bysid/96
+#EXTINF:-1,tvg-id="港台電視31" tvg-name="港台電視31" tvg-logo="https://epg.112114.xyz/logo/港台電視31.png" group-title="其他",港台電視31
+http://c-leung.homeip.net:8013/bysid/31
+#EXTINF:-1,tvg-id="港台電視32" tvg-name="港台電視32" tvg-logo="https://epg.112114.xyz/logo/港台電視32.png" group-title="其他",港台電視32
+http://c-leung.homeip.net:8013/bysid/32
