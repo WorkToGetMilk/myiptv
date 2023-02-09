@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://dl.zichuo.cn/epg/e.xml,http://epg.112114.eu.org/pp.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" 
-#EXTINF:-1 tvg-id="凤凰卫视中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
+#EXTINF:-1 tvg-id="凤凰卫视中文" tvg-name="凤凰卫视中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰卫视中文
 http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.js.chinamobile.com/TVOD/3/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.js.chinamobile.com/TVOD/3/224/3221228524/index.m3u8
