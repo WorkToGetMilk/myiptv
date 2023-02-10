@@ -5,7 +5,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.js.chinamobile.com/TVOD/3/224/32
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.js.chinamobile.com/TVOD/3/224/3221228524/index.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",凤凰香港
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1综合
+#EXTINF:-1 channel_id=3160 tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1综合
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221227163/index.m3u8?
 #EXTINF:-1 tvg-id="CCTV-2财经" tvg-name="CCTV2财经" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221227165/index.m3u8?
