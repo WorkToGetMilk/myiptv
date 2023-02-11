@@ -1,23 +1,33 @@
-#EXTM3U x-tvg-url="https://epg.hklive.tv"
-#EXTINF:-1,tvg-id="81" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
+#EXTM3U x-tvg-url="https://epg.hklive.tv,https://iptv-org.github.io/epg/guides/zh/epg.i-cable.com.xml,https://iptv-org.github.io/epg/guides/zh/nowplayer.now.com.xml	"
+#EXTINF:-1,tvg-id="81" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="[TVB] 電視廣播",翡翠台
 http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8 
-#EXTINF:-1,tvg-id="84" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
+#EXTINF:-1,tvg-id="84" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="[TVB] 電視廣播",明珠台
 http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8 
-#EXTINF:-1,tvg-id="82" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="其他",J2台
+#EXTINF:-1,tvg-id="82" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title=""[TVB] 電視廣播",J2台
 http://c-leung.homeip.net:8012/bysid/82
-#EXTINF:-1,tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://epg.112114.xyz/logo/無綫新聞台.png" group-title="其他",無綫新聞台
-http://c-leung.homeip.net:8012/bysid/83
-#EXTINF:-1,tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://epg.112114.xyz/logo/tvb财经体育资讯.png" group-title="其他",無綫財經·資訊台
-http://c-leung.homeip.net:8012/bysid/85
-#EXTINF:-1,tvg-id="99" tvg-name="ViuTV" tvg-logo="https://epg.112114.xyz/logo/ViuTV.png" group-title="其他",ViuTV
-http://c-leung.homeip.net:8011/bysid/96
-#EXTINF:-1,tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://epg.112114.xyz/logo/VIU6.png" group-title="其他",ViuTV Six
-http://c-leung.homeip.net:8011/bysid/99
-#EXTINF:-1,tvg-id="31" tvg-name="港台電視31" tvg-logo="https://epg.112114.xyz/logo/RTHK31.png" group-title="其他",港台電視31
+#EXTINF:-1,tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://epg.112114.xyz/logo/無綫新聞台.png" group-title="[TVB] 電視廣播",無綫新聞台
+https://cdn.hklive.tv/xxxx/83/index.m3u8
+#EXTINF:-1,tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://epg.112114.xyz/logo/tvb财经体育资讯.png" group-title="[TVB] 電視廣播",無綫財經·資訊台
+https://cdn.hklive.tv/xxxx/85/index.m3u8
+#EXTINF:-1,tvg-id="99" tvg-name="ViuTV" tvg-logo="https://epg.112114.xyz/logo/ViuTV.png" group-title=[Viu] 香港電視娛樂",ViuTV
+https://cdn.hklive.tv/xxxx/99/index.m3u8
+#EXTINF:-1,tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://epg.112114.xyz/logo/VIU6.png" group-title=[Viu] 香港電視娛樂",ViuTV Six
+https://cdn.hklive.tv/xxxx/96/index.m3u8
+#EXTINF:-1 tvg-id="332" tvg-name="now News" tvg-logo="https://upload.112114.xyz/logo/NOW新聞台.png" group-title="[Now-TV] 電訊盈科媒電視",Now 新聞台
+https://cdn.hklive.tv/xxxx/332/index.m3u8
+#EXTINF:-1,tvg-id="31" tvg-name="港台電視31" tvg-logo="https://epg.112114.xyz/logo/RTHK31.png" group-title="[RTHK] 香港電台",港台電視31
 http://c-leung.homeip.net:8013/bysid/31
-#EXTINF:-1,tvg-id="32" tvg-name="港台電視32" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" group-title="其他",港台電視32
+#EXTINF:-1,tvg-id="32" tvg-name="港台電視32" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" group-title="[RTHK] 香港電台",港台電視32
 http://c-leung.homeip.net:8013/bysid/32
-#EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="https://upload.112114.xyz/logo/香港开电视.png" group-title="[Fan] 奇妙電視",香港開電視
+#EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://www.hklive.tv/png_logo/77.png" group-title="[Fan] 奇妙電視",HOY TV
 https://cdn.hklive.tv/xxxx/77/index.m3u8
+#EXTINF:-1 tvg-id="78" tvg-name="HOY TV 資訊台" tvg-logo="https://www.hklive.tv/png_logo/78.png" group-title="[Fan] 奇妙電視",HOY TV 資訊台
+https://cdn.hklive.tv/xxxx/78/index.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://upload.112114.xyz/logo/香港国际财经台.png" group-title="[Fan] 奇妙電視",香港國際財經台
 https://cdn.hklive.tv/xxxx/76/index.m3u8
+#EXTINF:-1 tvg-id="109" tvg-name="i-CABLE News Channel" tvg-logo="https://upload.112114.xyz/logo/有线新闻.png" group-title="[i-cable] 有線電視",有線 新聞台
+https://cdn.hklive.tv/xxxx/109/index.m3u8
+#EXTINF:-1 tvg-id="110" tvg-name="i-CABLE Live News Channel" tvg-logo="https://upload.112114.xyz/logo/有线直播新闻.png" group-title="[i-cable] 有線電視",有線 直播新聞台
+https://cdn.hklive.tv/xxxx/110/index.m3u8
+#EXTINF:-1 tvg-id="108" tvg-name="i-CABLE Finance Info Channel" tvg-logo="https://upload.112114.xyz/logo/有线财经资讯.png" group-title="[i-cable] 有線電視",有線 財經資訊台
+https://cdn.hklive.tv/xxxx/108/index.m3u8
