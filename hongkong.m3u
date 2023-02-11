@@ -4,7 +4,7 @@ http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
 #EXTINF:-1,tvg-id="84" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="[TVB] 電視廣播",明珠台
 http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8 
 #EXTINF:-1,tvg-id="82" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title=""[TVB] 電視廣播",J2台
-http://c-leung.homeip.net:8012/bysid/82
+https://cdn.hklive.tv/xxxx/82/index.m3u8
 #EXTINF:-1,tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://epg.112114.xyz/logo/無綫新聞台.png" group-title="[TVB] 電視廣播",無綫新聞台
 https://cdn.hklive.tv/xxxx/83/index.m3u8
 #EXTINF:-1,tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://epg.112114.xyz/logo/tvb财经体育资讯.png" group-title="[TVB] 電視廣播",無綫財經·資訊台
