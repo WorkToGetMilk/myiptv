@@ -9,3 +9,5 @@ http://stream2.xiancity.cn/xatv3/playlist.m3u8
 http://stream2.xiancity.cn/xatv4/playlist.m3u8
 #EXTINF:-1 tvg-name="西安丝路" group-title="西安" catchup-source="http://stream2.xiancity.cn/xatv5/sd/${start}000,${duration}000.m3u8",西安丝路
 http://stream2.xiancity.cn/xatv5/playlist.m3u8
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" catchup-source="http://www.terrykang.xyz:5678/bestv.php?id=cctv1hd8m/8000000/${start}000,${duration}000.m3u8" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1 8M
+http://www.terrykang.xyz:5678/bestv.php?id=cctv1hd8m/8000000
