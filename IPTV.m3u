@@ -63,6 +63,14 @@ http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/TVOD/888888
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]/ott.mobaibox.com/TVOD/3/224/3221227674/index.m3u8?Hevc5.5M
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://epg.112114.xyz/logo/北京科教.png" group-title="北京",BTV科教
 http://[2409:8087:3408:20:5040::106]:18890/TVOD/88888888/224/3221225944/index.m3u8
+#EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="主线路2",新视觉 8M
+https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
+#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="体育",五星体育
+https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
+#EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="体育",劲爆体育
+https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
+#EXTINF:-1,tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="体育",超级体育
+https://live.v1.mk/api/bestv.php?id=qcsj8m/8000000
 #EXTINF:-1 tvg-id="CCTV4K超高清" tvg-name="CCTV4K超高清" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV4K
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.js.chinamobile.com/TVOD/3/224/3221228228/index.m3u8
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="其他",4KUHD 纯享4K
