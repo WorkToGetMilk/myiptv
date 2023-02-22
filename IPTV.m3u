@@ -41,7 +41,7 @@ http://[2409:8087:3408:20:5040::106]:18890/TVOD/88888888/224/3221225818/index.m3
 http://[2409:8087:3408:20:5040::106]:18890/TVOD/88888888/224/3221227162/index.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17 农业农村
 http://[2409:8087:3408:20:5040::106]:18890/TVOD/88888888/224/3221226986/index.m3u8
-#EXTINF:-1,tvg-id="CCTV4K超高清" tvg-name="CCTV4K 4K超清" tvg-logo="https://epg.112114.xyz/logo/CCTV4K4K.png" group-title="央视",CCTV4K超高清
+#EXTINF:-1 tvg-id="CCTV4K超高清" tvg-name="CCTV4K超高清" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV4K 超高清
 http://[2409:8087:3408:20:5040::106]:18890/TVOD/88888888/224/3221226998/index.m3u8
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
 http://[2409:8087:3408:20:5040::106]:18890/TVOD/88888888/224/3221227160/index.m3u8
