@@ -1,4 +1,4 @@
-#EXTM3U  Referer=http://www.hkkp.cnscn.com
+#EXTM3U catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" 
 #EXTINF:-1 tvg-name="西安新闻综合" group-title="西安" catchup-source="http://stream2.xiancity.cn/xatv1/sd/${start}000,${duration}000.m3u8",西安新闻综合
 http://stream2.xiancity.cn/xatv1/playlist.m3u8
 #EXTINF:-1 tvg-name="西安都市" group-title="西安" catchup-source="http://stream2.xiancity.cn/xatv2/sd/${start}000,${duration}000.m3u8",西安都市
@@ -9,5 +9,7 @@ http://stream2.xiancity.cn/xatv3/playlist.m3u8
 http://stream2.xiancity.cn/xatv4/playlist.m3u8
 #EXTINF:-1 tvg-name="西安丝路" group-title="西安" catchup-source="http://stream2.xiancity.cn/xatv5/sd/${start}000,${duration}000.m3u8",西安丝路
 http://stream2.xiancity.cn/xatv5/playlist.m3u8
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png"  group-title="央视",CCTV1 8M
-http://livehkkp.chinamcache.com/live/CCTV-1H265_4000.m3u8
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1 综合
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000007000000001243/index.m3u8
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1 综合
+http://[2409:8087:5050:20::3023]/0000000000001001/1/index.m3u8?Contentid=1000000001000021973&livemode=1&stbId=2&channel-id=ystenlive
