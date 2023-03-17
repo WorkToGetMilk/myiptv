@@ -1,4 +1,4 @@
-#EXTM3U catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U
 #EXTINF:-1 tvg-name="西安新闻综合" group-title="西安" catchup-source="http://stream2.xiancity.cn/xatv1/sd/${start}000,${duration}000.m3u8",西安新闻综合
 http://stream2.xiancity.cn/xatv1/playlist.m3u8
 #EXTINF:-1 tvg-name="西安都市" group-title="西安" catchup-source="http://stream2.xiancity.cn/xatv2/sd/${start}000,${duration}000.m3u8",西安都市
