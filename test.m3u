@@ -1,3 +1,3 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="36" tvg-name="CCTV1"  catchup-source="http://hls.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8start=${start}&end=${timestamp}" group-title="央视",CCTV1高清
-http://hls.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
+#EXTM3U catchup-source="?starttime={utc:YmdTHMS}&endtime={utcend:YmdTHMS}"
+#EXTINF:-1 tvg-id="36" tvg-name="CCTV1"  group-title="央视",CCTV1高清
+http://hls.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
