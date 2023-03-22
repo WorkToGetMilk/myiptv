@@ -1,5 +1,5 @@
-#EXTM3U catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 tvg-id="36" tvg-name="CCTV1" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172041741.jpg" group-title="央视",CCTV1高清
+#EXTM3U catchup="append" 
+#EXTINF:-1 tvg-id="36" tvg-name="CCTV1" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172041741.jpg" catchup-source="starttime=${start:yyyyMMdd}T${start:HHmmss.sss}&endtime=${end:yyyyMMdd}T${end:HHmmss.sss}" group-title="央视",CCTV1高清
 http://[2409:8087:501b:51::1020]:8089/180000001002/00000001000000000007000000001243/main.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="CCTV2" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172738452.jpg" group-title="央视",CCTV2高清
 http://[2409:8087:501b:51::1020]:8089/180000001002/00000001000000000008000000047431/main.m3u8
