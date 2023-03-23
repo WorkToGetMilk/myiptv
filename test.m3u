@@ -29,9 +29,7 @@ http://[2409:8087:501b:51::1020]:8089/180000001002/00000001000000000050000000133
 http://[2409:8087:501b:51::1020]:8089/180000001002/00000001000000000008000000047441/main.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="CCTV15" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172316897.jpg" group-title="央视",CCTV15高清
 http://[2409:8087:501b:51::1020]:8089/180000001002/00000001000000000026000000446967/main.m3u8
-#EXTINF:-1 tvg-id="51" tvg-name="CCTV16" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172345479.jpg" group-title="央视",CCTV16高清(试
-
-用)
+#EXTINF:-1 tvg-id="51" tvg-name="CCTV16" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172345479.jpg" group-title="央视",CCTV16高清(试用)
 http://[2409:8087:501b:51::1020]:8089/180000001002/00000001000000000079000000434986/main.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="CCTV17" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172551856.jpg" group-title="央视",CCTV17高清
 http://[2409:8087:501b:51::1020]:8089/180000001002/00000001000000000025000000024152/main.m3u8
@@ -59,9 +57,7 @@ http://[2409:8087:501b:51::1020]:8089/180000001002/00000001000000000071000000305
 http://[2409:8087:501b:51::1020]:8089/180000001002/00000001000000000002000000113182/main.m3u8
 #EXTINF:-1 tvg-id="03" tvg-name="湖南都市" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725190355486.jpg" group-title="省内",湖南都市高清
 http://[2409:8087:501b:51::1020]:8089/180000001002/00000001000000000007000000001249/main.m3u8
-#EXTINF:-1 tvg-id="04" tvg-name="湖南电视剧" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725190230668.jpg" group-title="省内",湖南电视剧高
-
-清
+#EXTINF:-1 tvg-id="04" tvg-name="湖南电视剧" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725190230668.jpg" group-title="省内",湖南电视剧高清
 http://[2409:8087:501b:51::1020]:8089/180000001002/00000001000000000007000000001245/main.m3u8
 #EXTINF:-1 tvg-id="05" tvg-name="湖南电影" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725190745427.jpg" group-title="省内",湖南电影高清
 http://[2409:8087:501b:51::1020]:8089/180000001002/00000001000000000007000000001246/main.m3u8
@@ -93,8 +89,8 @@ http://[2409:8087:501b:51::1020]:8089/180000001002/00000000000000020000000000182
 http://[2409:8087:501b:51::1020]:8089/180000001002/00000000000000020000000000182541/main.m3u8
 #EXTINF:-1 tvg-id="24" tvg-name="长沙影视" tvg-logo="" group-title="本地",长沙影视
 http://[2409:8087:501b:51::1020]:8089/180000001002/00000000000000020000000000182542/main.m3u8
-#EXTINF:-1 tvg-id="201" tvg-name="湖南卫视" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725183537628.jpg" group-title="卫视",湖南卫视高清
-http://[2409:8087:501b:51::1020]:8089/180000001002/00000001000000000010000000040382/main.m3u8
+#EXTINF:-1 tvg-id="201" tvg-name="湖南卫视" catchup-source="http://[2409:8087:5011:1020::1a]/180000002001/00000001000000001001000000000035/main.m3u8?IASHttpSessionId=OTT&starttime=${start:yyyyMMdd}T${start:HHmmss.sss}Z&endtime=${end:yyyyMMdd}T${end:HHmmss.sss}Z" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725183537628.jpg" group-title="卫视",湖南卫视高清
+http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001001000000000035/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="61" tvg-name="江苏卫视" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725163331139.jpg" group-title="卫视",江苏卫视高清
 http://[2409:8087:501b:51::1020]:8089/180000001002/00000001000000000007000000001244/main.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="浙江卫视" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725171935898.jpg" group-title="卫视",浙江卫视高清
@@ -133,9 +129,7 @@ http://[2409:8087:501b:51::1020]:8089/180000001002/00000001000000000064000000308
 http://[2409:8087:501b:51::1020]:8089/180000001002/00000001000000000090000000215606/main.m3u8
 #EXTINF:-1 tvg-id="79" tvg-name="河南卫视" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725142030828.jpg" group-title="卫视",河南卫视高清
 http://[2409:8087:501b:51::1020]:8089/180000001002/00000001000000000057000000208264/main.m3u8
-#EXTINF:-1 tvg-id="80" tvg-name="黑龙江卫视" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725142508914.jpg" group-title="卫视",黑龙江卫视高
-
-清
+#EXTINF:-1 tvg-id="80" tvg-name="黑龙江卫视" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725142508914.jpg" group-title="卫视",黑龙江卫视高清
 http://[2409:8087:501b:51::1020]:8089/180000001002/00000001000000000008000000047449/main.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="贵州卫视" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725141719333.jpg" group-title="卫视",贵州卫视高清
 http://[2409:8087:501b:51::1020]:8089/180000001002/00000001000000000010000000040424/main.m3u8
