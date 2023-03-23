@@ -11,8 +11,8 @@ http://[2409:8087:501b:51::1020]:8089/180000001002/00000001000000000007000000001
 http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001001000000000050/index.m3u8
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" catchup-source="http://[2409:8087:5000:21::1016]:8089/180000002001/00000001000000000007000000047432/index.m3u8?starttime=yyyyMMddTHHmmss.00Z&endtime=yyyyMMddTHHmmss.00Z" group-title="央视",CCTV3
 http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000008000000047432/index.m3u8
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4
-http://[2409:8087:3800:20:1000::2]:8080/hwrr.jx.chinamobile.com/TVOD/88888888/224/3221226277/index.m3u8
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" catchup-source="http://[2409:8087:501b:51::1020]:8089/180000002002/00000001000000000008000000047433/main.m3u8?starttime=${start:yyyyMMdd}T${start:HHmmss.sss}Z&endtime=${end:yyyyMMdd}T${end:HHmmss.sss}Z" group-title="央视",CCTV4
+http://[2409:8087:501b:51::1020]:8089/180000001002/00000001000000000008000000047433/main.m3u8
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5
 http://[2409:8087:3800:20:1000::2]:8080/hwrr.jx.chinamobile.com/TVOD/88888888/224/3221225633/index.m3u8
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+
