@@ -80,6 +80,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/TVOD/3/224/32212282
 #EXTINF:-1 tvg-id="江苏4K修复电影" tvg-name="江苏4K修复电影" tvg-logo="https://epg.112114.xyz/logo/江苏4K修复电影.png" group-title="江苏",江苏4K修复电影
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226980/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225747/index.m3u8
 #EXTINF:-1 tvg-id="CNC中文" tvg-name="CNC中文" tvg-logo="https://upload.112114.xyz/logo/CNC.png" group-title="其他",CNC中文
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225694/2/index.m3u8
