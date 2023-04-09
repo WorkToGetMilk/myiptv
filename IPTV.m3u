@@ -63,7 +63,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/TVOD/3/224/32212284
 http://[2409:8087:2001:20:2800:0:df6e:eb17]/ott.mobaibox.com/TVOD/3/224/3221228221/index.m3u8
 #EXTINF:-1,catchup-source="http://[2409:8087:5000:21::1016]:8089/180000002001/00000001000000000002000000113182/index.m3u8?Contentid=00000001000000000002000000113182&starttime=${start:yyyyMMdd}T${start:HHmmss.sss}&endtime=${end:yyyyMMdd}T${end:HHmmss.sss}" tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://epg.112114.xyz/logo/湖南经视.png" group-title="湖南",湖南经视
 http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000002000000113182/index.m3u8
-#EXTINF:-1,catchup-source="http://[2409:8087:5011:1020::1f]/180000002001/00000001000000001001000000000040/index.m3u8?Contentid=00000001000000001001000000000040&starttime=${start:yyyyMMdd}T${start:HHmmss.sss}&endtime=${end:yyyyMMdd}T${end:HHmmss.sss}" tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://epg.112114.xyz/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
+#EXTINF:-1,catchup-source="http://[2409:8087:5011:1020::1f]/180000002001/00000001000000001001000000000040/index.m3u8?Contentid=00000001000000001001000000000040&starttime=${start:yyyyMMdd}T${start:HHmmss.sss}&endtime=${end:yyyyMMdd}T${end:HHmmss.sss}" tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://upload.112114.xyz/logo/湖南娱乐台.png" group-title="湖南",湖南娱乐
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000040/index.m3u8
 #EXTINF:-1,catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="其他",生活时尚
 http://[2409:8087:2001:20:2800:0:df6e:eb17]/ott.js.chinamobile.com/TVOD/3/224/3221227707/index.m3u8
@@ -85,7 +85,7 @@ http://www.terrykang.cn:5678/sxg.php?id=lqhxjcHDH265_4000
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/TVOD/3/224/3221228242/index.m3u8
 #EXTINF:-1,catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="江苏4K修复电影" tvg-name="江苏4K修复电影" tvg-logo="https://epg.112114.xyz/logo/江苏4K修复电影.png" group-title="江苏",江苏4K修复电影
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
-#EXTINF:-1,catchup-source="http://[2409:8087:5011:1020::1f]/180000002001/00000001000000000002000000028012/index.m3u8?Contentid=00000001000000000002000000028012&starttime=${start:yyyyMMdd}T${start:HHmmss.sss}&endtime=${end:yyyyMMdd}T${end:HHmmss.sss}" tvg-id="CGTN记录" tvg-name="CGTN记录" tvg-logo="https://epg.112114.xyz/logo/CGTN记录.png" group-title="央视",CGTN记录
+#EXTINF:-1,catchup-source="http://[2409:8087:5011:1020::1f]/180000002001/00000001000000000002000000028012/index.m3u8?Contentid=00000001000000000002000000028012&starttime=${start:yyyyMMdd}T${start:HHmmss.sss}&endtime=${end:yyyyMMdd}T${end:HHmmss.sss}" tvg-id="CGTNDOCUMENTARY" tvg-name="CGTN记录" tvg-logo="https://upload.112114.xyz/logo/CGTNDOCUMENTARY.png" group-title="央视",CGTN记录
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028012/index.m3u8
 #EXTINF:-1,catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="20" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN
 http://[2409:8087:3869:8021:1001::42]:6610/PLTV/88888910/224/3221225747/index.m3u8
