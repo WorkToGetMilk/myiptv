@@ -61,10 +61,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb08]/ott.mobaibox.com/TVOD/3/224/32212281
 http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/TVOD/3/224/3221228428/index.m3u8
 #EXTINF:-1,catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb17]/ott.mobaibox.com/TVOD/3/224/3221228221/index.m3u8
-#EXTINF:-1,catchup-source="http://[2409:8087:5000:21::1016]:8089/180000002001/00000001000000000002000000113182/index.m3u8?Contentid=00000001000000000002000000113182&starttime=${start:yyyyMMdd}T${start:HHmmss.sss}&endtime=${end:yyyyMMdd}T${end:HHmmss.sss}" tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://epg.112114.xyz/logo/湖南经视.png" group-title="湖南",湖南经视
-http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000002000000113182/index.m3u8
-#EXTINF:-1,catchup-source="http://[2409:8087:5011:1020::1f]/180000002001/00000001000000001001000000000040/index.m3u8?Contentid=00000001000000001001000000000040&starttime=${start:yyyyMMdd}T${start:HHmmss.sss}&endtime=${end:yyyyMMdd}T${end:HHmmss.sss}" tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://upload.112114.xyz/logo/湖南娱乐台.png" group-title="湖南",湖南娱乐
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000040/index.m3u8
 #EXTINF:-1,catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="其他",生活时尚
 http://[2409:8087:2001:20:2800:0:df6e:eb17]/ott.js.chinamobile.com/TVOD/3/224/3221227707/index.m3u8
 #EXTINF:-1,catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://upload.112114.xyz/logo/乐游.png" group-title="其他",乐游
@@ -73,20 +69,12 @@ http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/TVOD/888888
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]/ott.mobaibox.com/TVOD/3/224/3221227674/index.m3u8?Hevc5.5M
 #EXTINF:-1,catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京科教.png" group-title="北京",BTV科教
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/TVOD/3/224/3221227711/index.m3u8
-#EXTINF:-1,catchup-source="http://[2409:8087:5011:1020::1f]/180000002001/00000001000000001007000000063477/index.m3u8?Contentid=00000001000000001007000000063477&starttime=${start:yyyyMMdd}T${start:HHmmss.sss}&endtime=${end:yyyyMMdd}T${end:HHmmss.sss}" tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001007000000063477/index.m3u8
-#EXTINF:-1,catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="体育",新视觉
-http://www.terrykang.cn:5678/sxg.php?id=ycxsjH265_4000
 #EXTINF:-1,catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="体育",五星体育
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
-#EXTINF:-1,catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="SITV劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="体育",劲爆体育
-http://www.terrykang.cn:5678/sxg.php?id=lqhxjcHDH265_4000
 #EXTINF:-1,catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="其他",4KUHD 纯享4K
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/TVOD/3/224/3221228242/index.m3u8
 #EXTINF:-1,catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="江苏4K修复电影" tvg-name="江苏4K修复电影" tvg-logo="https://epg.112114.xyz/logo/江苏4K修复电影.png" group-title="江苏",江苏4K修复电影
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
-#EXTINF:-1,catchup-source="http://[2409:8087:5011:1020::1f]/180000002001/00000001000000000002000000028012/index.m3u8?Contentid=00000001000000000002000000028012&starttime=${start:yyyyMMdd}T${start:HHmmss.sss}&endtime=${end:yyyyMMdd}T${end:HHmmss.sss}" tvg-id="CGTNDOCUMENTARY" tvg-name="CGTN记录" tvg-logo="https://upload.112114.xyz/logo/CGTNDOCUMENTARY.png" group-title="央视",CGTN记录
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028012/index.m3u8
 #EXTINF:-1,catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="20" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN
 http://[2409:8087:3869:8021:1001::42]:6610/PLTV/88888910/224/3221225747/index.m3u8
 #EXTINF:-1,catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="CNC中文" tvg-name="CNC中文" tvg-logo="https://upload.112114.xyz/logo/CNC.png" group-title="其他",CNC中文
