@@ -5,8 +5,7 @@ http://[2409:8087:3869:8021:1001::42]:6610/PLTV/88888910/224/3221226248/index.m3
 http://[2409:8087:3869:8021:1001::42]:6610/PLTV/88888910/224/3221226274/index.m3u8
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
 http://[2409:8087:3869:8021:1001::42]:6610/PLTV/88888910/224/3221226251/index.m3u8
-#EXTINF:-1,catchup-source="http://[2409:8087:7001:20:1000::95]:6610/000000002000/5000000004000002226/index.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3&starttime=yyyyMMddTHHmmss.00Z&endtime=yyyyMMddTHHmmss.00Z
-" tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1,catchup-source="http://[2409:8087:7001:20:1000::95]:6610/000000002000/5000000004000002226/index.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3&starttime=yyyyMMddTHHmmss.00Z&endtime=yyyyMMddTHHmmss.00Z" tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000004000002226/index.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 #EXTINF:-1,catchup-source="http://[2409:8087:1e03:21::42]:6610/cms002/ch00000090990000001220/index.m3u8?start=${start}&end=${timestamp}" tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001220/index.m3u8?
