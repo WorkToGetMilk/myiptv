@@ -1,3 +1,3 @@
 #EXTM3U 
-#EXTINF:-1,tvg-id="CCTV1" catchup-source="http://[2409:8087:7001:20:1000::95]:6610/000000002000/5000000004000002226/index.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3&starttime=yyyyMMddTHHmmss.00Z&endtime=yyyyMMddTHHmmss.00Z" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1,tvg-id="CCTV1" catchup-source="http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000004000002226/index.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=4&stbId=3&starttime=yyyyMMddTHHmmss.00Z&endtime=yyyyMMddTHHmmss.00Z" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000004000002226/index.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
