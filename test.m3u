@@ -2,4 +2,4 @@
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1 8M
 http://www.terrykang.cn:5678/bsthk.php?ml=23&id=cctv1hd.smil
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2 8M
-http://www.terrykang.cn:5678/bsthk.php??ml=23&id=cctv2hd.smil
+http://www.terrykang.cn:5678/bsthk.php?ml=23&id=cctv2hd.smil
