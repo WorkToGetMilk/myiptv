@@ -7,7 +7,7 @@ http://www.terrykang.cn:5678/bsthk.php?id=cctv2hd8m
 http://www.terrykang.cn:5678/bsthk.php?id=cctv38m
 #EXTINF:-1,catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss} tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4
 http://www.terrykang.cn:5678/bsthk.php?id=cctv4hd8m
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5 8M
 http://www.terrykang.cn:5678/bsthk.php?id=cctv58m
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+
 http://www.terrykang.cn:5678/bsthk.php?id=cctv5phd8m
