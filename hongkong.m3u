@@ -16,11 +16,11 @@ https://cdn.hklive.tv/xxxx/96/index.m3u8
 #EXTINF:-1 tvg-id="332" tvg-name="now News" tvg-logo="https://upload.112114.xyz/logo/NOW新聞台.png" group-title="[Now-TV] 電訊盈科媒電視",Now 新聞台
 https://cdn.hklive.tv/xxxx/332/index.m3u8
 #EXTINF:-1,tvg-id="31" tvg-name="港台電視31" tvg-logo="https://epg.112114.xyz/logo/RTHK31.png" group-title="[RTHK] 香港電台",港台電視31
-https://cdn.hklive.tv/xxxx/31/index.m3u8
+https://hkanime:hkanime@cdn.hklive.tv/xxxx2/31/index.m3u8
 #EXTINF:-1,tvg-id="32" tvg-name="港台電視32" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" group-title="[RTHK] 香港電台",港台電視32
-https://cdn.hklive.tv/xxxx/32/index.m3u8
+https://hkanime:hkanime@cdn.hklive.tv/xxxx2/32/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://www.hklive.tv/png_logo/33.png" group-title="[RTHK] 香港電台",港台電視33
-https://cdn.hklive.tv/xxxx/33/index.m3u8
+https://hkanime:hkanime@cdn.hklive.tv/xxxx2/32/index.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="CGTN紀錄頻道" tvg-logo="https://www.hklive.tv/png_logo/34.png" group-title="[RTHK] 香港電台",CGTN紀錄頻道
 https://cdn.hklive.tv/xxxx/34/index.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://www.hklive.tv/png_logo/77.png" group-title="[Fan] 奇妙電視",HOY TV
