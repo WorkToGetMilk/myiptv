@@ -1,16 +1,16 @@
 #EXTM3U x-tvg-url="https://epg.hklive.tv,https://iptv-org.github.io/epg/guides/zh/epg.i-cable.com.xml,https://iptv-org.github.io/epg/guides/zh/nowplayer.now.com.xml	"
 #EXTINF:-1,tvg-id="81" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="[TVB] 電視廣播",翡翠台
-https://cdn.hklive.tv/xxxx/81/index.m3u8 
+http://r.jdshipin.com/62WM7
 #EXTINF:-1,tvg-id="84" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="[TVB] 電視廣播",明珠台
 https://cdn.hklive.tv/xxxx/84/index.m3u8 
 #EXTINF:-1,tvg-id="82" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title=""[TVB] 電視廣播",J2台
-https://cdn.hklive.tv/xxxx/82/index.m3u8
+http://r.jdshipin.com/Nr5jq
 #EXTINF:-1,tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://epg.112114.xyz/logo/無綫新聞台.png" group-title="[TVB] 電視廣播",無綫新聞台
-https://cdn.hklive.tv/xxxx/83/index.m3u8
+http://r.jdshipin.com/CkuBd
 #EXTINF:-1,tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://epg.112114.xyz/logo/tvb财经体育资讯.png" group-title="[TVB] 電視廣播",無綫財經·資訊台
-https://cdn.hklive.tv/xxxx/85/index.m3u8
+http://r.jdshipin.com/jUx8K
 #EXTINF:-1,tvg-id="99" tvg-name="ViuTV" tvg-logo="https://epg.112114.xyz/logo/ViuTV.png" group-title="[Viu] 香港電視娛樂",ViuTV
-https://cdn.hklive.tv/xxxx/99/index.m3u8
+http://r.jdshipin.com/vSJvl
 #EXTINF:-1,tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://epg.112114.xyz/logo/VIU6.png" group-title="[Viu] 香港電視娛樂",ViuTV Six
 https://cdn.hklive.tv/xxxx/96/index.m3u8
 #EXTINF:-1 tvg-id="332" tvg-name="now News" tvg-logo="https://upload.112114.xyz/logo/NOW新聞台.png" group-title="[Now-TV] 電訊盈科媒電視",Now 新聞台
