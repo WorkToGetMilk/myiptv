@@ -2,4 +2,4 @@
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1 8M
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2 8M
-http://www.terrykang.xyz:5678/gudou.php?phone=15903691100&ptoken=z3w3RfZYteaQwAEYY9zkA==&pserialnumber=f0a87a98b0ab44&cid=370id=CCTV10HD_1500
+http://www.terrykang.xyz:5678/gudou.php?phone=15903691100&ptoken=z3w3RfZYtaeQwA2EYY9zkA==&pserialnumber=f0a87a98b5b0ab44&cid=370&id=CCTV1HD_1500
